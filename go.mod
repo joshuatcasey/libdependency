@@ -10,7 +10,7 @@ require (
 	github.com/joshuatcasey/collections v0.2.0
 	github.com/onsi/gomega v1.20.0
 	github.com/paketo-buildpacks/occam v0.12.0
-	github.com/paketo-buildpacks/packit/v2 v2.4.1
+	github.com/paketo-buildpacks/packit/v2 v2.4.2
 	github.com/sclevine/spec v1.4.0
 	golang.org/x/exp v0.0.0-20220722155223-a9213eeb770e
 )

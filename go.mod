@@ -9,7 +9,7 @@ require (
 	github.com/go-enry/go-license-detector/v4 v4.3.0
 	github.com/joshuatcasey/collections v0.3.0
 	github.com/onsi/gomega v1.20.2
-	github.com/paketo-buildpacks/occam v0.13.0
+	github.com/paketo-buildpacks/occam v0.13.1
 	github.com/paketo-buildpacks/packit/v2 v2.4.2
 	github.com/sclevine/spec v1.4.0
 	golang.org/x/exp v0.0.0-20220827204233-334a2380cb91

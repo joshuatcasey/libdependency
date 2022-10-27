@@ -11,7 +11,7 @@ require (
 	github.com/anchore/packageurl-go v0.1.1-0.20220428202044-a072fa3cb6d7
 	github.com/go-enry/go-license-detector/v4 v4.3.0
 	github.com/joshuatcasey/collections v0.5.0
-	github.com/onsi/gomega v1.22.1
+	github.com/onsi/gomega v1.23.0
 	github.com/paketo-buildpacks/occam v0.13.3
 	github.com/paketo-buildpacks/packit/v2 v2.6.1
 	github.com/sclevine/spec v1.4.0
@@ -72,9 +72,9 @@ require (
 	golang.org/x/crypto v0.0.0-20221012134737-56aed061732a // indirect
 	golang.org/x/exp v0.0.0-20221012134508-3640c57a48ea // indirect
 	golang.org/x/mod v0.6.0-dev.0.20220419223038-86c51ed26bb4 // indirect
-	golang.org/x/net v0.0.0-20221012135044-0b7e1fb9d458 // indirect
-	golang.org/x/sys v0.0.0-20221010170243-090e33056c14 // indirect
-	golang.org/x/text v0.3.8 // indirect
+	golang.org/x/net v0.1.0 // indirect
+	golang.org/x/sys v0.1.0 // indirect
+	golang.org/x/text v0.4.0 // indirect
 	golang.org/x/tools v0.1.12 // indirect
 	gonum.org/v1/gonum v0.12.0 // indirect
 	google.golang.org/genproto v0.0.0-20221010155953-15ba04fc1c0e // indirect

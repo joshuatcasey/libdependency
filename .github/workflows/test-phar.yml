@@ -1,0 +1,18 @@
+name: Test PHAR
+
+on:
+  workflow_dispatch:
+
+jobs:
+  unit:
+    name: Unit Tests
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check for binaries
+        run: |
+          which php
+          which phar
+          php --version
+          phar version
+          phar help extract
+

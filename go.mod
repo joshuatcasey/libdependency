@@ -11,12 +11,12 @@ replace github.com/docker/docker => github.com/docker/docker v20.10.3-0.20221013
 require (
 	github.com/BurntSushi/toml v1.2.1
 	github.com/Masterminds/semver/v3 v3.2.0
-	github.com/anchore/packageurl-go v0.1.1-0.20220428202044-a072fa3cb6d7
+	github.com/anchore/packageurl-go v0.1.1-0.20230104203445-02e0a6721501
 	github.com/go-enry/go-license-detector/v4 v4.3.0
 	github.com/joshuatcasey/collections v0.5.0
-	github.com/onsi/gomega v1.24.2
-	github.com/paketo-buildpacks/occam v0.13.3
-	github.com/paketo-buildpacks/packit/v2 v2.7.0
+	github.com/onsi/gomega v1.26.0
+	github.com/paketo-buildpacks/occam v0.15.1
+	github.com/paketo-buildpacks/packit/v2 v2.8.1
 	github.com/sclevine/spec v1.4.0
 )
 
@@ -31,7 +31,7 @@ require (
 	github.com/containerd/containerd v1.6.15 // indirect
 	github.com/dgryski/go-minhash v0.0.0-20190315135803-ad340ca03076 // indirect
 	github.com/docker/distribution v2.8.1+incompatible // indirect
-	github.com/docker/docker v20.10.22+incompatible // indirect
+	github.com/docker/docker v23.0.0+incompatible // indirect
 	github.com/docker/go-connections v0.4.0 // indirect
 	github.com/docker/go-units v0.5.0 // indirect
 	github.com/ekzhu/minhash-lsh v0.0.0-20190924033628-faac2c6342f8 // indirect
@@ -49,7 +49,7 @@ require (
 	github.com/jbenet/go-context v0.0.0-20150711004518-d14ea06fba99 // indirect
 	github.com/jdkato/prose v1.2.1 // indirect
 	github.com/kevinburke/ssh_config v1.2.0 // indirect
-	github.com/klauspost/compress v1.15.9 // indirect
+	github.com/klauspost/compress v1.15.11 // indirect
 	github.com/magiconair/properties v1.8.7 // indirect
 	github.com/moby/patternmatcher v0.5.0 // indirect
 	github.com/moby/sys/sequential v0.5.0 // indirect
@@ -63,7 +63,7 @@ require (
 	github.com/pjbgf/sha1cd v0.2.3 // indirect
 	github.com/pkg/errors v0.9.1 // indirect
 	github.com/russross/blackfriday/v2 v2.1.0 // indirect
-	github.com/sergi/go-diff v1.2.0 // indirect
+	github.com/sergi/go-diff v1.3.1 // indirect
 	github.com/shogo82148/go-shuffle v1.0.1 // indirect
 	github.com/sirupsen/logrus v1.9.0 // indirect
 	github.com/skeema/knownhosts v1.1.0 // indirect
@@ -79,7 +79,7 @@ require (
 	golang.org/x/tools v0.5.0 // indirect
 	gonum.org/v1/gonum v0.12.0 // indirect
 	google.golang.org/genproto v0.0.0-20230109162033-3c3c17ce83e6 // indirect
-	google.golang.org/grpc v1.51.0 // indirect
+	google.golang.org/grpc v1.52.0 // indirect
 	google.golang.org/protobuf v1.28.1 // indirect
 	gopkg.in/neurosnap/sentences.v1 v1.0.7 // indirect
 	gopkg.in/warnings.v0 v0.1.2 // indirect
